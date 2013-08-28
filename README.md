@@ -1,8 +1,7 @@
 BudgetTemplate
 ==============
 
-About:
-While this isn't an application using any programming language, this is a project I have been working on for many years, and feel that it is worth sharing for other people to use.
+This is your all encompassing, extremely powerful budget planning tool. This template has the simplicity of a simple income and expense recorder, while providing the tools to help you plan months, even years in advance. Plan your way out of debt and into a more stable financial situation. I began creating this template back in 2009 (using iWork, eventually converting it to Google Docs). Every year, I made small improvements based on what I felt was missing, bugs I found, and feedback from a friend who also uses it. This year, I completely redesigned it to make it much easier to use, and vastly more powerful. With the release of Version 2.0, I decided to make it publicly available. It helped me throughout my college career, and is now helping me in the professional world. Enjoy!
 
 Google Drive Spreadsheet:
 https://drive.google.com/templates?view=public&authorId=01784685571608047934
